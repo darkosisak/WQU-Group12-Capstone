@@ -1,5 +1,5 @@
 # WQU-Group12-Capstone
-The WQU Capstone repository for group 12, i.e. Darko Sisak
+-- The WQU Capstone repository for group 12, i.e. Darko Sisak --
 
 This is a repository pertinent to Darko Sisak's Capstone project for the MSc in Financial Engineering at the WorldQuant University.
 
