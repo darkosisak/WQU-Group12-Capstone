@@ -7,6 +7,10 @@ The project is named An Event-driven Machine Learning Approach in Designing Shor
 
 The complete code used in the Capstone project is contained in the Capstone_course.ipynb. This includes the machine learning modeling part and the data structures section dealing with the analysis of different bar construction methods.
 
+## Disclaimer
+
+The Trend Scanning technique introduces a look-forward bias. The purpose of the code is to prove or disprove assumptions presented in the Capstone project. Please take this into consideration if you intend to use it for trading.
+
 ## Running the code in Colaboratory
 
 You can seamlessly run the Capstone_course.ipynb in Colaboratory if you have a gmail account by clicking on the Colaboratory button on the top of the notebook.
